@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/actionbar_search_item"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/blue_snowball"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/actionbar_search_text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10dp"
+        android:background="@drawable/abc_textfield_search_selected_holo_dark"
+        android:gravity="left"
+        android:hint="搜索讨论/股票/用户/群组" 
+        android:textColor="@color/white"/>
+</LinearLayout>

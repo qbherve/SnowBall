@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dynamic_state_ll"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/lightwhite"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/dynamic_state_lv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:divider="@null"
+        android:dividerHeight="10dp"
+        android:focusableInTouchMode="true" 
+        android:scrollHorizontally="true"
+        android:layout_gravity="center_vertical" />
+
+</LinearLayout>

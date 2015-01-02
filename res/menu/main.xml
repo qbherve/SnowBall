@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_websearch"
+          android:icon="@drawable/action_search"
+          android:title="@string/action_websearch"
+          android:showAsAction="ifRoom|collapseActionView" 
+          android:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_edit"
+          android:icon="@drawable/icon_tool_write"
+          android:title="@string/action_write"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/action_friends"
+          android:icon="@drawable/icon_tool_more"
+          android:title="@string/action_friends"
+          android:showAsAction="never" />
+</menu>

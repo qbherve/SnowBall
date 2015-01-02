@@ -1,0 +1,33 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.snowball"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="17" />
+
+    <application
+        android:icon="@drawable/logo_icon_statusbar"
+        android:label="@string/app_name"
+        android:theme="@style/CustomActionBarTheme">
+
+        <activity
+            android:name="DynamicStateActivity"
+            android:launchMode="singleTask"
+            android:icon="@drawable/logo_icon_statusbar"
+            android:label="@string/app_content">
+        </activity>
+        
+        <activity
+            android:name="MainActivity"
+            android:launchMode="singleTask"
+            android:icon="@drawable/logo_icon_statusbar"
+            android:label="@string/activity_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

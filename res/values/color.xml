@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="brown">#2C3E50</color>
+	<color name="white">#FFFFFF</color> 
+	<color name="lightwhite">#F5F5F5</color> 	
+	<color name="lightbrown">#3D566E</color>  
+	<color name="green">#2ECC71</color>
+	<color name="lightblue">#11CFD6</color>
+	<color name="tomatored">#EA6153</color>	
+	<color name="orange">#F1C40F</color>		
+	<color name="red">#ffff0101</color>  
+	<color name="blue_snowball">#0055AA</color> 
+	<color name="blue1">#ff0099cc</color> 
+	<color name="blue2">#ff66ccff</color>
+	<color name="menubrown">#2C3E50</color>	
+	<color name="menuitembrown">#34495E</color>
+	<color name="menuitemselectedbrown">#3D566E</color>	
+	<color name="green1">#ff00cc33</color>
+	<color name="yellow">#FFFF00</color>
+	<color name="grey">#C0C0C0</color>
+	<color name="black">#000000</color>
+	<color name="cambrige">#C0D9D9</color>
+	<color name="middleblue">#32CD99</color>
+	<color name="stoneblue">#ADEAEA</color>
+	<color name="greenyellow">#93DB70</color>
+	<color name="lightgrey">#545454</color>	
+	<color name="bluemihong">#7093DB</color>	
+	<color name="gray">#aaaaaa</color>	
+	<color name="blue3">#267cd1</color>	
+	<color name="hintcolor">#eec0c0c0</color>
+		
+</resources>
